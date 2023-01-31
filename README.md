@@ -12,7 +12,7 @@ Currently studying at [**University of Science - VNUHCM**](https://www.hcmus.edu
 
 ##⚡️ Skills
 
-<img src="https://github.com/nhan925/nhan925/blob/main/cpp.svg" style="width=50px; length=50px;">
+<img src="https://github.com/nhan925/nhan925/blob/main/cpp.svg" style="width: 50px; length: 50px;">
 
 ## 🔖 Stats
 
