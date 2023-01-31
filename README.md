@@ -1,6 +1,6 @@
 # 👋 Hi there 
 
-My Name is [**Nguyen Trong Nhan**](https://nhan925.github.io)
+My name is [**Nguyen Trong Nhan**](https://nhan925.github.io)
 
 I'm currently studying IT at [**University of Science - VNUHCM**](https://www.hcmus.edu.vn/)
 
