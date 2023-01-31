@@ -16,8 +16,10 @@ Currently studying at [**University of Science - VNUHCM**](https://www.hcmus.edu
 
 ## 🔖 Stats
 
-
+<stats style="width: 50px; length: 50px;">
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nhan925&show_icons=true&hide_border=true&theme=material-palenight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+</stats>
+
 
 
 
