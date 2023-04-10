@@ -7,6 +7,7 @@ I'm currently studying IT at [**University of Science - VNUHCM**](https://www.hc
 ## 🚧 Projects
 
 - [📄 Portfolio Site](https://nhan925.github.io) - Personal Portfolio Site
+- [🀄 Caro Game](https://github.com/nhan925/caro-game) - A game made in university
 
 ...explore my [other repositories](https://github.com/nhan925?tab=repositories) for more projects.
 
